@@ -1,0 +1,10 @@
+Format,pluribusunum
+_beginpeers
+http://github.com/devakkalji/xadfund/receiver.csv
+https://github.com/nemesis-proj/xadfund/receiver.csv
+http://localhost/xad/receiver/receiver.csv
+_endpeers
+_begincoins
+XDH5ph1Xf5HroQVpJxpyWTqvEZD9y3QfVH
+XTFGQwrG4aFbvQNvLr32zim538Rv8vfWJS
+_endcoins
