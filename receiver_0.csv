@@ -2,7 +2,7 @@ Format,pluribusunum
 _beginpeers
 https://raw.github.com/devakkalji/xadfund/master/receiver.csv
 https://raw.github.com/nemesis-proj/xadfund/master/receiver.csv
-http://localhost/xad/receiver/receiver.csv
+http://192.168.1.100/xad/receiver/receiver.csv
 _endpeers
 _begincoins
 XDH5ph1Xf5HroQVpJxpyWTqvEZD9y3QfVH
